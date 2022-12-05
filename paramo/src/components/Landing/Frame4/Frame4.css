@@ -1,0 +1,40 @@
+.frame-4 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  height: 448px;
+  width: fit-content;
+}
+
+.ellipse-4 {
+  height: 300px;
+  min-width: 300px;
+  object-fit: cover;
+}
+
+.name {
+  color: var(--black);
+  font-weight: 600;
+  height: 100px;
+  line-height: 28px;
+  text-align: center;
+  width: 400px;
+}
+
+.icon-linkedin-1 {
+  height: 48px;
+  margin-bottom: -74.00px;
+  min-width: 48px;
+}
+
+.frame-4.frame-5 {
+  height: 522px;
+  margin-left: 38px;
+}
+
+.frame-4.frame-5 .icon-linkedin-1 {
+  margin-bottom: unset;
+}
+

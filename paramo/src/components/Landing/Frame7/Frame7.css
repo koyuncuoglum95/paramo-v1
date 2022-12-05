@@ -1,0 +1,28 @@
+.frame-6 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.ellipse-4-1 {
+  height: 300px;
+  min-width: 300px;
+  object-fit: cover;
+}
+
+.name-rol {
+  color: var(--black);
+  font-weight: 600;
+  height: 100px;
+  line-height: 28px;
+  text-align: center;
+  width: 400px;
+}
+
+.icon-linkedin-2 {
+  height: 48px;
+  min-width: 48px;
+}
+
